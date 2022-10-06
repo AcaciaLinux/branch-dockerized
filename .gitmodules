@@ -1,4 +1,4 @@
 [submodule "branch/branch"]
 	path = branch/branch
 	url = https://github.com/AcaciaLinux/branch
-	shallow = true
+	branch = main
